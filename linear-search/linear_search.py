@@ -5,3 +5,4 @@ def linear_search(lst, to_find):
 			num = lst[i]
 			return num
 	return num
+print(linear_search([1,2,3,4],5))
